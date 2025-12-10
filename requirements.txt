@@ -1,0 +1,13 @@
+fastapi[standard]==0.124.2
+
+langchain==1.1.2
+langchain-community==0.4.1
+langchain-openai==1.1.0
+langchain-chroma==1.0.0
+
+python-dotenv==1.2.1
+PyMuPDF==1.26.6
+
+unstructured[all-docs]==0.18.21
+loguru==0.7.3
+pydantic
